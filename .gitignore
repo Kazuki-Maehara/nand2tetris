@@ -3,3 +3,4 @@
 *.cmp
 *.hack
 *~
+*.pyc
